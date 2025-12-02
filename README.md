@@ -8,17 +8,18 @@
 
 - 🔭 I’m currently Studying Computer Science **Butwal Kalika Campus**
 
-- 🌱 I’m currently learning **Spring Boot Framework**
+- 🌱 I’m currently learning **Django REST Framework**
 
 - 👯 I’m looking to collaborate on **Inventory Management System**
 
 - 🤝 I’m looking for help with **Z1 Tracker Project**
 
-- 💬 Ask me about **flutter, java, spring boot, php**
+- 💬 Ask me about **flutter, java, spring boot, php, Python**
 
 - 📫 How to reach me **hemantmarasini123@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1hy6_sCaBb3_4In6pXpxQ0uRzZIm9TILy/view?usp=sharing](https://drive.google.com/file/d/1hy6_sCaBb3_4In6pXpxQ0uRzZIm9TILy/view?usp=sharing)
+- 📄 Know about my experiences:
+www.linkedin.com/in/hemant-marasini-2a1641256
 
 - ⚡ Fun fact **Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.**
 
