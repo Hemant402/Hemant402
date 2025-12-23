@@ -1,6 +1,6 @@
 ![logo](https://github.com/Hemant402/Hemant402/blob/main/coding_banner.jpg)
-<h1 align="center">Hi 👋, I'm Hemant Marasini</h1>
-<h3 align="center">A dedicated and hard worker Backend Developer.</h3>
+<h1 align="center">Hi 👋, I'm **Hemant Marasini**</h1>
+<h3 align="center">A dedicated and hard working Backend Developer.</h3>
 
 <img align ="right" alt="code with hemant" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"> 
 
